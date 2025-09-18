@@ -1,5 +1,6 @@
 # CorenessMaximization
-
+## python version of CorenessMaximization
+Paper: "Coreness Maximization through Budget-Limited Edge Insertion".
 ### Datasets
 Graphs are stored as plain-text edge lists with the first line containing `n m`. You can place additional datasets into the `dataset/` directory. The algorithms renumber vertices internally, so IDs in the file can be arbitrary integers.
 
